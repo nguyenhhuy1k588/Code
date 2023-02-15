@@ -1,0 +1,3 @@
+../Libs/Src/Valve.c:9:6:VALVE_Handle	16	static
+../Libs/Src/Valve.c:93:6:VALVE_Close	8	static
+../Libs/Src/Valve.c:102:6:VALVE_Open	8	static

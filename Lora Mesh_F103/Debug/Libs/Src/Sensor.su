@@ -1,0 +1,3 @@
+../Libs/Src/Sensor.c:8:6:Sensor_Init	24	static
+../Libs/Src/Sensor.c:14:6:Sensor_Send_cmd	32	static
+../Libs/Src/Sensor.c:39:6:Sensor_Handle	16	static
